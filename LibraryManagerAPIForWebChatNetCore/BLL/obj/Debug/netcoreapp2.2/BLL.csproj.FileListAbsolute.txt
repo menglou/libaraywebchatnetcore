@@ -1,0 +1,16 @@
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\bin\Debug\netcoreapp2.2\BLL.deps.json
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\bin\Debug\netcoreapp2.2\BLL.dll
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\bin\Debug\netcoreapp2.2\BLL.pdb
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\bin\Debug\netcoreapp2.2\Common.dll
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\bin\Debug\netcoreapp2.2\DAL.dll
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\bin\Debug\netcoreapp2.2\Entity.dll
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\bin\Debug\netcoreapp2.2\DAL.pdb
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\bin\Debug\netcoreapp2.2\Entity.pdb
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\bin\Debug\netcoreapp2.2\Common.pdb
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\obj\Debug\netcoreapp2.2\BLL.csprojAssemblyReference.cache
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\obj\Debug\netcoreapp2.2\BLL.csproj.CoreCompileInputs.cache
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\obj\Debug\netcoreapp2.2\BLL.AssemblyInfoInputs.cache
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\obj\Debug\netcoreapp2.2\BLL.AssemblyInfo.cs
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\obj\Debug\netcoreapp2.2\BLL.csproj.CopyComplete
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\obj\Debug\netcoreapp2.2\BLL.dll
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\BLL\obj\Debug\netcoreapp2.2\BLL.pdb

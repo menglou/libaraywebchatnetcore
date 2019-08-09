@@ -1,0 +1,9 @@
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\Entity\bin\Debug\netcoreapp2.2\Entity.deps.json
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\Entity\bin\Debug\netcoreapp2.2\Entity.dll
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\Entity\bin\Debug\netcoreapp2.2\Entity.pdb
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\Entity\obj\Debug\netcoreapp2.2\Entity.csprojAssemblyReference.cache
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\Entity\obj\Debug\netcoreapp2.2\Entity.csproj.CoreCompileInputs.cache
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\Entity\obj\Debug\netcoreapp2.2\Entity.AssemblyInfoInputs.cache
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\Entity\obj\Debug\netcoreapp2.2\Entity.AssemblyInfo.cs
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\Entity\obj\Debug\netcoreapp2.2\Entity.dll
+F:\测试项目\自己建的github上的项目\图书馆微信小程序webapi-.netcore\LibraryManagerAPIForWebChatNetCore\Entity\obj\Debug\netcoreapp2.2\Entity.pdb

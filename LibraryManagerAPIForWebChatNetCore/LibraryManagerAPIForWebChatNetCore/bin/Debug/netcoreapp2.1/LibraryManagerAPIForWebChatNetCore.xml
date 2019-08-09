@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LibraryManagerAPIForWebChatNetCore</name>
+    </assembly>
+    <members>
+        <member name="M:LibraryManagerAPIForWebChatNetCore.Controllers.HomeController.Login(System.Object)">
+            <summary>
+            微信里用户登录
+            </summary>
+            <param name="code"></param>
+            <param name="nickName"></param>
+            <param name="province"></param>
+            <param name="city"></param>
+            <param name="gender"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
